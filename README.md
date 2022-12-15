@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Younes</h1>
-<h3 align="center">Hi I'm Software developer that loves coding and building projects.</h3>
+<h3 align="center">Hi I'm a Software developer that loves coding and building projects.</h3>
 
 - ⚡ Fun fact **I'm an Engineer**
 
